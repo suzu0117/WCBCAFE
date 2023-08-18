@@ -1,0 +1,22 @@
+body {
+    background-image:url(./images/main-bg.jpg);
+    background-size: 100%;
+}
+ul {
+    list-style: none;
+    display:flex;
+}
+.header {
+    display: flex;
+}
+.headerlogo {
+    height: 20%;
+    width: 20%;
+}
+.headerlist {
+    margin-left: auto;
+}
+li {
+    padding:20px;
+    font-size: 20px;
+}
