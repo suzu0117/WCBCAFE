@@ -46,15 +46,10 @@ li {
 }
 .button {
     background-color: rgb(51, 198, 224);
-    width: 200px;
-    height: 50px;
+    width: 230px;
+    height: 60px;
     border-radius:5px;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-.menulink {
-    color: white;
-    font-size: 18px;
-    font-weight: 500;
 }
