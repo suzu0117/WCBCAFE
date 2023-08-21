@@ -18,6 +18,10 @@ ul {
     width: 20%;
     margin-left: 80px;
 }
+.logo {
+    max-width: 200px;
+    min-width: 100px;
+}
 .headerlist {
     margin-right: 80px;
     font-weight: 500;
@@ -52,4 +56,5 @@ li {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 100px;
 }
