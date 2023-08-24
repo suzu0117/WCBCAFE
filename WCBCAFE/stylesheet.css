@@ -1,9 +1,11 @@
 body {
+    
+}
+.TOP {
     background-image:url(./images/main-bg.jpg);
     background-size: cover;
     background-attachment: fixed;
-    background-position: center 5%;
-    margin: 0px;
+    height: 1000px;
 }
 ul {
     list-style: none;
