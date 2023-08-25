@@ -1,10 +1,9 @@
 body {
-    
+    margin:0px;
 }
 .TOP {
     background-image:url(./images/main-bg.jpg);
     background-size: cover;
-    background-attachment: fixed;
     height: 1000px;
 }
 ul {
@@ -47,7 +46,7 @@ ul {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 70px;
     font-weight: 400;
-    margin-top: 130px;
+    margin-top: 300px;
     margin-bottom:20px;
 }
 .subtitle {
