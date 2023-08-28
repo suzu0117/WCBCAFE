@@ -108,12 +108,13 @@ ul {
 @media screen and (max-width: 600px) {
     body {
         margin:0px;
+        height: 100%;
     }
     .TOP {
         background-image:url(./images/main-bg.jpg);
         background-size: cover;
         background-position: center;
-        height: 1000px;
+        height: 100vh;
     }
     ul {
         list-style: none;
@@ -151,7 +152,7 @@ ul {
         display: flex;
         flex-direction: column;
         align-items: center;
-        margin-bottom: 100px;
+        margin-bottom: 0px;
     }
     .title {
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -185,7 +186,7 @@ ul {
         background-image: url(./images/menu-bg.jpg);
         background-size: cover;
         background-position: center 5%;
-        height: 700px;
+        height: 100vh;
     }
     .menutitle {
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
