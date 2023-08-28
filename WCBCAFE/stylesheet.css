@@ -162,7 +162,7 @@ ul {
     .subtitle {
         font-weight: 500;
         letter-spacing: 2px;
-        margin-bottom: 40px;
+        margin: 0px 20px 40px;
     }
     .button {
         background-color: rgb(51, 198, 224);
@@ -195,8 +195,7 @@ ul {
         margin-bottom:20px;
     }
     .menusubtitle {
-        margin-right: 31%;
-        margin-left: 31%;
+        margin: 0px 20px 40px;
         letter-spacing: 2px;
         font-weight: 500;
     }
@@ -205,13 +204,12 @@ ul {
     }
     .container {
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 2fr;
         gap: 10px;
-        margin-left: 80px;
-        margin-right: 80px;
+        margin: 10px 20px 0px;
     }
     .item {
         width:100%;
-        margin-top: 10px;
+        text-align: center;
     }
 }
