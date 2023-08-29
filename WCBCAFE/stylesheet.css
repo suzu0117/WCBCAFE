@@ -104,18 +104,23 @@ ul {
 }
 .menumain {
     background-color: white;
+    border-top: 2px solid;
 }
 .container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 10px;
-    margin-left: 80px;
-    margin-right: 80px;
+    gap: 20px;
+    padding:20px;
+    margin:10px 80px 10px;
 }
 .item {
     width:100%;
-    margin-top: 10px;
+    border: 1px solid;
+    padding:5px;
     text-align: center;
+}
+.item_image{
+    width:100%;
 }
 
 @media screen and (max-width: 600px) {
