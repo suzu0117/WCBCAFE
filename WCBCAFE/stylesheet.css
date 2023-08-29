@@ -54,6 +54,7 @@ ul {
     margin-bottom:20px;
 }
 .subtitle {
+    font-size:18px;
     font-weight: 500;
     letter-spacing: 2px;
     margin-bottom: 40px;
@@ -81,6 +82,8 @@ ul {
     flex-direction: column;
     align-items: center;
     background-image: url(./images/menu-bg.jpg);
+    background-color:rgba(255,255,255,0.2);
+    background-blend-mode:color;
     background-size: cover;
     background-position: center 5%;
     height: 700px;
@@ -93,6 +96,7 @@ ul {
     margin-bottom:20px;
 }
 .menusubtitle {
+    font-size:18px;
     margin-right: 31%;
     margin-left: 31%;
     letter-spacing: 2px;
@@ -111,6 +115,7 @@ ul {
 .item {
     width:100%;
     margin-top: 10px;
+    text-align: center;
 }
 
 @media screen and (max-width: 600px) {
