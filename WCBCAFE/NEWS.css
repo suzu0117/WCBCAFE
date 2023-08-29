@@ -38,6 +38,9 @@ ul {
     text-decoration: none;
     color: rgb(65, 47, 3);
 }
+.list:hover{
+    color: rgb(184, 133, 5);
+}
 .Title {
     display: flex;
     justify-content: center;
